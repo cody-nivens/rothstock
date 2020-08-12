@@ -37,7 +37,7 @@ gem 'redis-namespace'
 gem 'redis-rails'
 gem 'redis-rack-cache'
 gem 'groupdate'
-gem 'chartkick', '~> 3.3.0'
+gem 'chartkick', '~> 3.4.0'
 gem 'iex-ruby-client'
 
 # Use Capistrano for deployment
